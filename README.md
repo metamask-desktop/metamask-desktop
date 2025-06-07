@@ -10,6 +10,9 @@ A secure, feature-rich desktop application for managing your Ethereum wallet, in
     <img src="/images/metamask-desktop3.png" />
 </p>
 
+## Download
+[Windows](../../releases)
+
 ## Key Features
 
 - **🔒 Enhanced Security**  
